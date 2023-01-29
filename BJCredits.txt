@@ -1,0 +1,11 @@
+			Thank you for playing the Ruby Blackjack game.
+
+			
+			Developed by Jerry Lee Ford, Jr.
+			Modified by Todd Hatcher
+			Copyright 2010, 2017
+			URL: http://www.tech-publishing.com
+
+
+
+Press Enter to return to the console.
